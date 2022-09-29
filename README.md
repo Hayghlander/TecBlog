@@ -1,6 +1,6 @@
 # TecBlog
 
-https://github.com/Hayghlander/AnnaBella/blob/main/LICENCE
+https://github.com/Hayghlander/TecBlog/blob/main/LICENCE
 
 # Sobre o projeto
 
